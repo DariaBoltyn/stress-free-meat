@@ -1,5 +1,5 @@
 # stress-free-meat
-Eco-Tech Solution in factory meat productionю AI and IOT technologies in factory meat production 
+Eco-Tech Solution in factory meat production. AI and IOT technologies in factory meat production 
 
 Abstract
 
